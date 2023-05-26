@@ -1,6 +1,6 @@
 # PMS Library
 Arduino library for Plantower PMS sensors.
-Supports PMS x003 sensors (1003, 3003, 5003, 6003, 7003).
+Supports PMS x003 sensors (1003, 3003, 5003, 6003, 7003). This is the modified version from Airgradient: https://www.airgradient.com/open-airgradient/blog/patching-pms-library-for-plantower-pms5003t/
 ## Installation
 Just use Arduino Library Manager and search "PMS Library" in Sensors category.
 ## Main assumptions
